@@ -118,8 +118,6 @@ If you find this tool helpful, please ⭐ star this repository and share it!
 
 ---
 
----
-
 ### 🇺🇸 English (`/en`)
 
 | Category | URL |
