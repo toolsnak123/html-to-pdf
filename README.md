@@ -93,16 +93,6 @@ Our mission is to provide fast, secure, and easy-to-use tools for everyone.
 
 ---
 
-## 🔗 More Free Tools by Toolsnak
-
-* 🧾 Free Invoice Generator: https://www.toolsnak.com/en/free-invoice-maker-online
-* 📄 PDF Tools: https://www.toolsnak.com/en/pdf-tools
-* 🖼️ Image Tools: https://www.toolsnak.com/en/image-tools
-* 🤖 AI Tools: https://www.toolsnak.com/en/ai-tools
-* 🔧 Developer Tools: https://www.toolsnak.com/en/dev-tools
-
----
-
 ## 📢 Connect With Toolsnak
 
 Stay updated with our latest tools, features, and updates:
